@@ -1,0 +1,210 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url("../img/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+	
+	font-family: monospace;
+	color: orange;
+}
+
+.slideshow{
+	list-style-type: none;
+	background-color: transparent;
+	margin-top: 55px;
+	display : none;
+}
+
+.prodotto{
+	background-color:black;
+	
+	border-color:orange;
+	border: 1px dotted;
+}
+
+nav {
+	background-color: transparent;
+	border-style:outset;
+	border-color:orange;
+	opacity: .5 ;
+}
+
+nav a:link {
+	text-decoration: none;
+	color: orange;
+	border-right: 10px;
+	border-width: thick;
+	border-color: black;
+	padding: 6px;
+}
+nav table a.carrello {
+	
+	font-family:monospace;
+	font-weight:bold;
+	color:orange;
+	float: right;
+	display: inline-block;
+	list-style: none;
+	padding-top: 8px;
+	
+}
+
+.carrello a:visited,
+a:hover {
+	background: transparent;
+}
+
+iframe {
+	margin: auto;
+	display:block;
+	
+}
+
+article {
+	margin: 7%;
+}
+
+h1{
+	
+	text-align: center;
+	
+}
+
+
+
+header img {
+	
+	padding-left: 20px;
+}
+
+header h1 {
+	font-size: 200%;
+	font-family: monospace;
+	float: right;
+	color: orange;
+}
+
+ .button {
+  	background-color: transparent; 
+  	border: transparent;
+    color: orange;  
+    padding: 2px 4px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: transparent;
+    color: maroon;
+    
+}
+
+.media{
+	
+	text-decoration: none;
+	position: static;
+	
+	
+}
+
+.video{
+	
+	margin-left:inherit; 
+	margin-right:inherit;
+	margin: 10px 350px 10px 350px;
+	right: auto;
+	volume: silent;
+}
+
+.news{
+	
+	margin-left:inherit; 
+	margin-right:inherit; 
+	margin: 10px 400px 10px 400px;
+	font-size:large;
+	font-weight:bold;
+	text-decoration: none;
+	background-color: black;
+	opacity: .6;
+	
+}
+
+div.news a{
+	
+	color: red;
+	font-size: x-large;
+	
+}
+
+section {
+	text-decoration: none;
+	background-color: transparent;
+	opacity: .7;
+}
+
+#selected {
+	backgroung-color: trasparent;
+	color: white;
+}
+
+#selected:hover {
+	color: orange;
+}
+
+section#latodx {
+	display: table-cell;
+	width: 50%;
+	vertical-align: top;
+	border-radius: 15px;
+}
+
+section#centro {
+	
+	
+	display: table-cell;
+	width: 50%;
+	vertical-align: top;
+	padding: 150 px;
+	text-align: justify;
+	border-radius: 10px;
+	
+}
+
+table {
+	
+	border-color: transparent;
+	border-width: 20px;
+	width: 100%;
+}
+
+table#logreg {
+	width: 109%;
+}
+
+
+
+footer {
+	background-color: black;
+	color: orange;
+	opacity: .5;
+	border-style:outset;
+	border-color:orange;
+	padding: 15px;
+	
+
+footer div#fax{
+	text-align: right;
+}
+footer p#foot{
+	text-align: center;
+		
+}
