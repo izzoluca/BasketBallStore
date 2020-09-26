@@ -15,4 +15,4 @@
 To make the purchase, the customer must be registered on our portal, must have a Credit Card / Prepaid Card / Debit Card (the following services will be added soon: Paypal, Neteller, Skrill), and enter their personal data for the order shipping and billing. </p>
 
 <h2> Layout </h2>
-<img> src="https://github.com/advancesluca/BasketBallStore/blob/master/BasketballStore/WebContent/img/layoutWeb.jpg" alt="Basketball Store layout" </img>
+<img src="https://github.com/advancesluca/BasketBallStore/blob/master/BasketballStore/WebContent/img/layoutWeb.jpg?raw=true" alt="Basketball Store layout" >
