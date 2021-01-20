@@ -1,5 +1,5 @@
 <h1> The BasketBall Store </h1>
-<b> MY FIRST JAVA PROJECT AT University of Salerno. <br> (late 2014)</b>
+<b> MY FIRST JAVA PROJECT @ University of Salerno. <br> (late 2014)</b>
 
 <h2> Description </h2>
 <p> I have developed an environment that facilitates the user in purchasing sports equipment other than e-commerce. All the user has to do is register and start browsing the product catalog, so as to choose what they are most interested in </p>
